@@ -1,12 +1,15 @@
-# 📝 Hello World Part Four Tutorial
+# Web3 chat
 
-This repository contains the starter files (`starter-files`) and completed version (`completed`) of Alchemy's [Hello World Part 4 Tutorial](https://app.gitbook.com/@alchemyapi/s/alchemy/tutorials/hello-world-smart-contract/creating-a-full-stack-dapp). 
+## Install project
+`clone https://https://github.com/Projects4School/web3-chat.git ChatWeb3`
 
-## ℹ️ About the tutorial
+`cd ChatWeb3`
 
-In this tutorial, we'll teach you how to create a full stack dApp by connecting your Hello World smart contract to a React frontend using Metamask and Web3 tools.
+## Start project
+`cd starter-files`
 
-## 🤔 Note
+### Install modules
+`npm install`
 
-Niether the `starter-files` nor `completed` have their `node_modules` folder. Before running `npm start` in your terminal to start the React project, run `npm install` to download all the package dependencies.
-
+### Start project
+`npm start`
